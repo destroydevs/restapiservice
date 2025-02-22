@@ -111,6 +111,6 @@ public class Database {
             if (e.getMessage().contains("users.user")) return Response.EMAIL_USED;
             System.out.println(e.getMessage());
         }
-        return Response.APPLY;
+        return Response.SUCCESS;
     }
 }
