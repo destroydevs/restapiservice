@@ -100,7 +100,7 @@ public class ApiClientExample {
         return client.send(request, HttpResponse.BodyHandlers.ofString()).body();
     }
 }
-
+```
 ## Technical Implementation
 - **Data Transmission**: AES-256 encryption for all parameters
 - **Password Storage**: 
