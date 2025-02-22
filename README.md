@@ -109,5 +109,4 @@ public class ApiClientExample {
 
 ## Required Improvements
 🚀 **High Priority Feature Request**  
-Add request caching to improve processing speed:  
-TODO: Implement caching
+Add request caching to improve processing speed
